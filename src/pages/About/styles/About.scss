@@ -1,0 +1,65 @@
+@import "../../../constants/main.scss";
+.delivery {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px;
+  color: $txtColor;
+
+  h3 {
+    font-size: $hSize;
+    color: $itemColortxt;
+  }
+
+  &_list {
+    margin: 20px 20px;
+    ul {
+      margin-bottom: 60px;
+    }
+    li {
+      list-style-type: none;
+      font-size: 20px;
+      &::before {
+        color: $itemOrangeColor;
+        content: "▪";
+        padding-right: 10px;
+      }
+    }
+  }
+  &_field {
+    margin: 20px 20px;
+    width: 600px;
+
+    p {
+      font-size: 18px;
+    }
+  }
+  &_warning {
+    margin: 20px;
+    padding-left: 10px;
+    border-left: 2px solid $itemOrangeColor;
+  }
+  &_table {
+    align-self: center;
+    p {
+      margin: 20px;
+    }
+    table {
+      margin-left: 120px;
+      text-align: center;
+      margin: 20px;
+    }
+    &_items {
+      margin-left: 100px;
+    }
+  }
+}
+
+@media screen and (max-width: 680px) {
+  .delivery_table_items {
+    margin-left: 0;
+  }
+  .delivery_field {
+    width: auto;
+  }
+}

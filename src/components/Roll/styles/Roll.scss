@@ -1,0 +1,83 @@
+@import "../../../constants/main.scss";
+.roll {
+  margin: 10px;
+  box-shadow: 0 0 3px 2px rgba(0, 0, 0, 0.89);
+  background-color: $bgColor;
+  backdrop-filter: blur(3.8px);
+}
+
+.roll_wrapper {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.roll_wrapper_content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.roll_item {
+  padding-left: 10px;
+  font-weight: bold;
+  color: $txtColor;
+}
+
+.roll_item p {
+  font-size: 18px;
+}
+.roll_img {
+  svg {
+    stroke: $itemColortxt;
+    fill: $itemColortxt;
+  }
+}
+
+@media screen and (max-width: 1130px) {
+  .roll_item {
+    p {
+      font-size: 15px;
+    }
+    img {
+      width: 40px;
+    }
+  }
+}
+@media screen and (max-width: 1000px) {
+  .roll_wrapper_content {
+    width: 50%;
+    justify-content: center;
+  }
+  .roll_item {
+    p {
+      font-size: 16px;
+    }
+  }
+}
+@media screen and (max-width: 718px) {
+  .roll_wrapper_content {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+@media screen and (max-width: 440px) {
+  .roll_item {
+    p {
+      font-size: 14px;
+    }
+    img {
+      width: 10px;
+      height: 12px;
+    }
+  }
+}
+@media screen and (max-width: 380px) {
+  .roll_wrapper_content {
+    margin-bottom: 8px;
+  }
+}

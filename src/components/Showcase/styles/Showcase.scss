@@ -1,0 +1,22 @@
+@import "../../../constants/main.scss";
+.showcase {
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 50px;
+}
+.showcase_filter {
+  display: flex;
+  width: 100%;
+
+  &_name {
+    padding: 20px;
+    font-size: $txtSize;
+    cursor: pointer;
+    color: $itemColortxt;
+    font-weight: bolder;
+    border-bottom: 3px solid transparent;
+  }
+  .active {
+    border-color: $itemColortxt;
+  }
+}

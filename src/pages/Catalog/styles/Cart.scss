@@ -1,0 +1,33 @@
+@import "../../../constants/main.scss";
+.paginationBttns {
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid $itemColortxt;
+  color: $txtColor;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: $itemColortxt;
+  background-color: $bgColor;
+}
+
+.paginationActive a {
+  color: $itemColortxt;
+  background-color: $bgColor;
+}
+
+.paginationDisabled a {
+  color: grey;
+}

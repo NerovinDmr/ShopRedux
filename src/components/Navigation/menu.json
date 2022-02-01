@@ -1,0 +1,31 @@
+{
+    "menu": [
+    {
+      "id": 1,
+      "path":"/catalog",
+      "name": "Каталог",
+      "icon": "s",
+      "open": true
+    }, 
+    
+      {
+        "id": 2,
+        "path":"/payment",
+        "name": "Оплата"
+      },      
+      {
+        "id":3,
+        "path":"/about",
+        "name": "О нас",
+        "open": true
+      }, 
+      
+      {
+        "id": 4,
+        "path":"/video",
+        "name": "Видео-Блог"
+      }
+  ]
+
+
+}

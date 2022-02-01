@@ -1,0 +1,72 @@
+@import "../../../constants/main.scss";
+.footer {
+  margin-top: 20px;
+  width: 100%;
+  height: 400px;
+  box-shadow: $Shadow;
+  background-color: $bgColor;
+  backdrop-filter: blur(3.8px);
+  color: $txtColor;
+}
+.Our_contacts {
+  text-align: center;
+  padding-top: 50px;
+  color: $txtColor;
+  font-size: $hSize;
+}
+.Contacts {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding: 20px;
+
+  &_left {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    .footer_phone {
+      text-align: left;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    .mail {
+      margin-bottom: 20px;
+    }
+  }
+  &_right {
+    width: 400px;
+  }
+}
+.license {
+  text-align: center;
+  padding-top: 50px;
+  color: $txtColor;
+}
+.social {
+  width: 161px;
+  &_icons {
+    width: 100px;
+    margin: 0 auto;
+    padding-top: 10px;
+  }
+}
+.mdIcon {
+  width: 20px;
+  height: 20px;
+  vertical-align: bottom;
+}
+
+.socialIcon {
+  width: 50px;
+  height: 50px;
+  color: #237ccf;
+  align-self: center;
+}
+@media screen and (max-width: 580px) {
+  .Our_contacts {
+    font-size: 18px;
+  }
+  .footer_phone {
+    font-size: 16px;
+  }
+}

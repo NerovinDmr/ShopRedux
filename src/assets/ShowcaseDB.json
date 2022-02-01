@@ -1,0 +1,199 @@
+{
+    "hit":[
+    {
+    "id":"1",
+    "name":"Детский электромобиль Mercedes Benz Unimog",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/020/020ad908737f0613ac2334a28fc3d50c.jpg",
+    "price":" 30850"
+    
+  },
+  {
+    "id":"2",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz G63 T999TT",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/008/008968540a1d08282b9eb490edcb5f1e.jpg",
+    "price":" 17450"
+  },
+  {
+    "id":"3",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz GT R (одноместный)",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/2cd/2cde8ae9c943753da3ef41f186a326b5.jpg",
+    "price":" 15500"
+  },
+  {
+    "id":"4",
+    "hit": true,
+    "name":"Детский электромобиль Mercedes Б111ОС",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/676/676925e4464bcd395904b7b562aa2bc9.jpg",
+    "price":" 13990"
+  },
+  {
+    "id":"5",
+    "hit": true,
+    "name":"Детский Электромобиль Toyota Tundra Maxi 12v",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/682/68232361a69fa00d73a208120b725d7c.jpg",
+    "price":" 41900"
+  },
+  {
+    "id":"6",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz G65 AMG 4x4 VIP",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/5bc/5bcc95dea4ab57157ea11ca2a79fe880.jpg",
+    "price":" 24450"
+  },
+  {
+    "id":"7",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz G65 AMG",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/920/9201316b3cf0964a88c3311e41626ea3.jpg",
+    "price":" 23350"
+  },
+  {
+    "id":"8",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz GT R 4WD  (Двухместный)",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/682/68232361a69fa00d73a208120b725d7c.jpg",
+    "price":" 28350"
+  },
+  {
+    "id":"9",
+    "hit": true,
+    "name":"Детский Электромобиль Mercedes-Benz G63 AMG",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/479/4796d4360ccd1e7ea79c2b9813afa60f.jpg",
+    "price":" 22600"
+  },
+  {
+    "id":"10",
+    "hit": true,
+    "name":"Детский электромобиль Ford Ranger 4wd",
+    "image":"https://www.pokatyshkin.ru/upload/iblock/9ad/9ad39ccb497ae5bac03a0bdf75927a69.jpg",
+    "price":" 32750"
+  }
+
+    ], 
+    "recomended":[
+      {
+        "id":"11",
+        "name":"Детский электромобиль Mercedes AMG G63 4x4 рестайлинг  S307 24V",
+        "image":"https://pokatushkin.com/upload/iblock/b14/b14cbe40305448fadbbeb3e63775a965.jpg",
+        "price":" 31000"
+      },
+      {
+        "id":"12",
+        "name":"Детский электромобиль Lexus LX 570 4 WD",
+        "image":"https://pokatushkin.com/upload/iblock/23f/23f400ecdc08fe9e2fba21f24bc80b26.jpg",
+        "price":" 34450"
+  },
+  {
+    "id":"13",
+    "name":"Детский Электромобиль BMW X5",
+    "image":"https://pokatushkin.com/upload/iblock/3ed/3ed8c36939f957534c126dd4ee4f713a.jpeg",
+    "price":" 29600"
+},
+{
+  "id":"14",
+  "name":"Детский электромобиль Jeep Rubicon VIP комплектация",
+  "image":"https://pokatushkin.com/upload/iblock/748/7489bdb32f733550da8df02cf4f6ba0e.jpg",
+  "price":" 21950"
+},
+{
+  "id":"15",
+  "name":"Детский электромобиль Mercedes GLA",
+  "image":"https://pokatushkin.com/upload/iblock/5a9/5a97405abed8b428536b70ca4ac20793.jpg",
+  "price":" 22750"
+},
+{
+  "id":"16",
+  "name":"Детский электромобиль BMW M6 GT3",
+  "image":"https://pokatushkin.com/upload/iblock/5a9/5a97405abed8b428536b70ca4ac20793.jpg",
+  "price":" 26750"
+},
+{
+  "id":"17",
+  "name":"Детский Электромобиль Bugatti Chiron",
+  "image":"https://pokatushkin.com/upload/iblock/b9e/b9ec01c31f37bf733ccbe98ffe81c370.jpg",
+  "price":" 21750"
+},
+{
+  "id":"18",
+  "name":"Детский Электромобиль Range Rover Vogue HSE",
+  "image":"https://pokatushkin.com/upload/iblock/ef1/ef19a9233c0140a71760ecc49add77b5.JPG",
+  "price":" 36250"
+},
+{
+  "id":"19",
+  "name":"Детский электромобиль McLaren 720S (DK-M720S)",
+  "image":"https://pokatushkin.com/upload/iblock/ff5/ff5e6cca365b6b9ba4574ca88c3d0d74.jpg",
+  "price":" 22750"
+},
+{
+  "id":"22",
+  "name":"Детский электромобиль Lexus LX 570 4 WD",
+  "image":"https://pokatushkin.com/upload/iblock/23f/23f400ecdc08fe9e2fba21f24bc80b26.jpg",
+  "price":" 34450"
+}
+    ],
+    "new":[
+      {
+        "id":"11",
+        "name":"Детский электромобиль Mercedes AMG G63 4x4 рестайлинг  S307 24V",
+        "image":"https://pokatushkin.com/upload/iblock/b14/b14cbe40305448fadbbeb3e63775a965.jpg",
+        "price":" 31000"
+
+      },
+      {
+        "id":"20",
+        "name":"Детский электромобиль Lexus LX 570 4 WD",
+        "image":"https://pokatushkin.com/upload/iblock/23f/23f400ecdc08fe9e2fba21f24bc80b26.jpg",
+        "price":" 34450"
+      },
+      {
+        "id":"32",
+        "name":"Детский электромобиль Mercedes Benz GLC 63 S Coupe одноместный 4WD",
+        "image":"https://pokatyshkin.ru/upload/iblock/4fe/4fee99efa5784f753a60658babfa3d8f.jpg",
+        "price":" 23900"
+      },
+      {
+        "id":"2",
+        "name":"Детский Электромобиль Mercedes-Benz G63 T999TT",
+        "image":"https://www.pokatyshkin.ru/upload/iblock/008/008968540a1d08282b9eb490edcb5f1e.jpg",
+        "price":" 17450"
+      },
+      {
+        "id":"22",
+        "name":"Детский электромобиль Buggy T888TT (Полный привод)",
+        "image":"https://pokatyshkin.ru/upload/iblock/e4d/e4ddc0ea574d681bb651e826be34852c.jpg",
+        "price":" 29650"
+      },
+      {
+        "id":"23",
+        "name":"Детский Электромобиль Buggy A707AA 24V",
+        "image":"https://pokatyshkin.ru/upload/iblock/cd7/cd732f46dbfcd8abb959517a9392cf8b.jpg",
+        "price":" 39450"
+      },
+      {
+        "id":"21",
+   "name":"Квадроцикл YACOTA CABO 200",
+   "image":"/images/atv/YACOTACABO200.png",
+   "price":"205000"},
+      {
+        "id":"13",
+        "name":"Детский Электромобиль BMW X5",
+        "image":"https://pokatushkin.com/upload/iblock/3ed/3ed8c36939f957534c126dd4ee4f713a.jpeg",
+        "price":" 29600"
+      },
+      {
+        "id":"16",
+        "name":"Детский электромобиль BMW M6 GT3",
+        "image":"https://pokatushkin.com/upload/iblock/5a9/5a97405abed8b428536b70ca4ac20793.jpg",
+        "price":" 26750"
+      },
+      {
+        "id":"17",
+        "name":"Детский Электромобиль Bugatti Chiron",
+        "image":"https://pokatushkin.com/upload/iblock/b9e/b9ec01c31f37bf733ccbe98ffe81c370.jpg",
+        "price":" 21750"
+      }
+    ]
+}

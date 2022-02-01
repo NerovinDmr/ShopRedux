@@ -1,0 +1,51 @@
+@import "../../../constants/main.scss";
+.payment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+  color: $txtColor;
+  h3 {
+    font-size: $hSize;
+    color: $itemColortxt;
+  }
+
+  &_list {
+    margin: 20px 20px;
+    ul {
+      margin-bottom: 60px;
+    }
+    li {
+      list-style-type: none;
+      font-size: $txtSize;
+      &::before {
+        color: $itemOrangeColor;
+        content: "▪";
+        padding-right: 10px;
+      }
+    }
+    &_title {
+      font-size: $txtSize;
+      color: $itemColortxt;
+      font-style: italic;
+    }
+  }
+  &_field {
+    margin: 20px 20px;
+
+    p {
+      font-size: 18px;
+    }
+  }
+}
+@media screen and (max-width: 480px) {
+  .payment {
+    justify-content: flex-start;
+    h3 {
+      font-size: 18px;
+    }
+    p {
+      font-size: 16px;
+    }
+  }
+}

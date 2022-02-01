@@ -1,0 +1,122 @@
+@import "../../../constants/main.scss";
+.slider {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.image {
+  width: 100%;
+  height: 600px;
+  border-radius: 10px;
+}
+
+.right-arrow {
+  position: absolute;
+  top: 50%;
+  right: 32px;
+  font-size: 3rem;
+  color: $itemOrangeColor;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+
+.left-arrow {
+  position: absolute;
+  top: 50%;
+  left: 32px;
+  font-size: 3rem;
+  color: $itemOrangeColor;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+
+.slide {
+  opacity: 0;
+  transition-duration: 1s ease;
+}
+
+.slide.active {
+  opacity: 1;
+  transition-duration: 1s;
+}
+.inner_Content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  position: relative;
+  height: 100%;
+}
+.middleBaner {
+  color: $itemColor;
+  margin-left: 120px;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.507);
+  width: 40%;
+  padding: 20px;
+  h3 {
+    font-size: 25px;
+  }
+  p {
+    font-size: 18px;
+  }
+}
+button {
+  margin: 5px;
+  color: $itemColor;
+  background-color: $itemOrangeColor;
+  border-color: rgba(240, 89, 19, 0.521);
+
+  a {
+    color: $itemColor;
+    text-decoration: none;
+  }
+}
+
+@media screen and (max-width: 740px) {
+  .image {
+    height: 400px;
+  }
+  .middleBaner {
+    padding: 20px;
+    h3 {
+      font-size: 20px;
+      padding: 5px;
+    }
+    p {
+      font-size: 16px;
+      padding: 5px;
+    }
+  }
+}
+@media screen and (max-width: 500px) {
+  .left-arrow,
+  .right-arrow {
+    display: none;
+  }
+  .middleBaner {
+    width: 100%;
+    height: 100px;
+    margin-left: 0px;
+    bottom: 10;
+    padding: 0px;
+  }
+}
+@media screen and (max-width: 376px) {
+  .middleBaner {
+    h3 {
+      font-size: 20px;
+      padding: 5px;
+    }
+    p {
+      font-size: 16px;
+      padding: 5px;
+    }
+  }
+  .image {
+    height: 300px;
+  }
+}

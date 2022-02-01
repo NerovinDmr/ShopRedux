@@ -1,0 +1,161 @@
+@import "../../../constants/main.scss";
+.cart {
+  color: rgb(255, 255, 255);
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+
+  svg {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    color: $itemColortxt;
+  }
+
+  &__item {
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+    padding: 10px;
+    @include animatedBg;
+    box-shadow: $Shadow;
+
+    &_img {
+      width: 10%;
+      img {
+        width: 100%;
+      }
+    }
+    &_name {
+      align-self: center;
+      width: 40%;
+    }
+    &_count {
+      align-self: center;
+      display: flex;
+      width: 15%;
+      height: 40px;
+      background-color: $bgColor;
+      border-radius: 5%;
+      align-items: center;
+      justify-content: center;
+
+      b {
+        margin: 0px 10px;
+      }
+    }
+
+    &_price {
+      align-self: center;
+    }
+
+    &_remove svg {
+      width: 40px;
+      height: 40px;
+      cursor: pointer;
+    }
+  }
+}
+.total_price {
+  text-align: right;
+  margin: 20px;
+  p {
+    font-size: 24px;
+  }
+}
+
+@media screen and (max-width: 1150px) {
+  .cart__wrapp {
+    h3 {
+      font-size: 20px;
+    }
+  }
+  .cart__item_name,
+  .cart__item_price,
+  b {
+    font-size: 18px;
+  }
+  .total_price p {
+    font-size: 18px;
+  }
+  .cart__item_remove {
+    svg {
+      width: 25px;
+      height: 25px;
+    }
+  }
+  .cart__item_img {
+    width: 12%;
+  }
+}
+.epty_cart {
+  height: 300px;
+}
+.epty_cart h1 {
+  text-align: center;
+  padding-top: 120px;
+}
+
+@media screen and (max-width: 700px) {
+  .cart__item_img {
+    width: 12%;
+  }
+  .cart__item_name,
+  .cart__item_price,
+  b {
+    font-size: 16px;
+  }
+  .total_price p {
+    font-size: 16px;
+  }
+  .cart__item_img {
+    width: 15%;
+  }
+}
+@media screen and (max-width: 580px) {
+  .cart {
+    width: 95%;
+  }
+  .cart__item {
+    width: 100%;
+  }
+  .cart__item_name {
+    width: 47%;
+    font-size: 14px;
+  }
+  .cart__item_remove {
+    position: absolute;
+    right: 0;
+    transform: translateX(-10px) translateY(-10px);
+    svg {
+      width: 15px;
+      height: 15px;
+    }
+  }
+}
+@media screen and (max-width: 380px) {
+  .cart__item_img {
+    width: 40%;
+  }
+  .cart__item_name {
+    font-size: 12px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .cart__item_count {
+    width: 20%;
+    margin-right: 5px;
+    b {
+      font-size: 12px;
+    }
+  }
+  .cart__item_price {
+    p {
+      font-size: 12px;
+    }
+  }
+}
