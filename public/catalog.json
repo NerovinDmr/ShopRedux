@@ -1,0 +1,381 @@
+{
+  "prodacts": [
+  {
+       "id":"1",
+       "name":"Детский электромобиль Mercedes Benz Unimog",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/020/020ad908737f0613ac2334a28fc3d50c.jpg",
+       "price":" 30850",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+       
+     },
+     {
+       "id":"2",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz G63 T999TT",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/008/008968540a1d08282b9eb490edcb5f1e.jpg",
+       "price":" 17450",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"3",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz GT R (одноместный)",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/2cd/2cde8ae9c943753da3ef41f186a326b5.jpg",
+       "price":" 15500",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"4",
+       "hit": true,
+       "name":"Детский электромобиль Mercedes Б111ОС",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/676/676925e4464bcd395904b7b562aa2bc9.jpg",
+       "price":" 13990",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"5",
+       "hit": true,
+       "name":"Детский Электромобиль Toyota Tundra Maxi 12v",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/682/68232361a69fa00d73a208120b725d7c.jpg",
+       "price":" 41900",
+       "specifications":{
+         "maxSpeed":"7",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"6",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz G65 AMG 4x4 VIP",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/5bc/5bcc95dea4ab57157ea11ca2a79fe880.jpg",
+       "price":" 24450",
+       "specifications":{
+         "maxSpeed":"8",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"7",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz G65 AMG",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/920/9201316b3cf0964a88c3311e41626ea3.jpg",
+       "price":" 23350",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"8",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz GT R 4WD  (Двухместный)",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/682/68232361a69fa00d73a208120b725d7c.jpg",
+       "price":" 28350",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"9",
+       "hit": true,
+       "name":"Детский Электромобиль Mercedes-Benz G63 AMG",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/479/4796d4360ccd1e7ea79c2b9813afa60f.jpg",
+       "price":" 22600",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+     {
+       "id":"10",
+       "hit": true,
+       "name":"Детский электромобиль Ford Ranger 4wd",
+       "image":"https://www.pokatyshkin.ru/upload/iblock/9ad/9ad39ccb497ae5bac03a0bdf75927a69.jpg",
+       "price":" 32750",
+       "specifications":{
+         "maxSpeed":"5",
+         "maxLoad":"100",
+         "weight" :"105",
+         "engine" : "Бензиновый",
+         "enginePower":"9",
+         "engineCapacity":"125",
+         "fuelTankCapacity":"3.6"
+    
+       }
+     },
+  {
+   "id":"20",
+   "name":"Квадроцикл YACOTA CABO 200LD",
+   "image":"/images/atv/YACOTACABO200LD.png",
+   "price":"215000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"21",
+   "name":"Квадроцикл YACOTA CABO 200",
+   "image":"/images/atv/YACOTACABO200.png",
+   "price":"205000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"22",
+   "name":"Квадроцикл YACOTA SELA 200 PRO",
+   "image":"/images/atv/YACOTASELA200PRO.png",
+   "price":"162000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"23",
+   "name":"Квадроцикл YACOTA SELA 200",
+   "image":"/images/atv/YACOTASELA200.png",
+   "price":"145000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"24",
+   "name":"Квадроцикл YACOTA FUSION",
+   "image":"/images/atv/YACOTAFUSION.png",
+   "price":"88200",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"25",
+   "name":"Квадроцикл YACOTA FUSION PRO",
+   "image":"/images/atv/YACOTAFUSIONPRO.png",
+   "price":"98200",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"26",
+   "name":"Квадроцикл YACOTA RENEGADE",
+   "image":"/images/atv/YACOTARENEGADE.png",
+   "price":"97500",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"27",
+   "name":"Квадроцикл YACOTA SPORTY XX",
+   "image":"/images/atv/YACOTASPORTXX.png",
+   "price":"97500",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"28",
+   "name":"квадроцикл YACOTA RAPOSA",
+   "image":"/images/atv/YACOTARAPOSA.png",
+   "price":"75000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"29",
+   "name":"квадроцикл YACOTA SMARTY",
+   "image":"/images/atv/YACOTASMARTY.png",
+   "price":"69900",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"30",
+   "name":"LT-45 YACOTA 45",
+   "image":"/images/atv/YACOTA45.png",
+   "price":"47000",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },
+  {
+   "id":"31",
+   "name":"Квадроцикл GreenCamel T400",
+   "image":"/images/atv/GreenCamelT400.png",
+   "price":"139950",
+   "specifications":{
+     "maxSpeed":"50",
+     "maxLoad":"100",
+     "weight" :"105",
+     "engine" : "Бензиновый",
+     "enginePower":"9",
+     "engineCapacity":"125",
+     "fuelTankCapacity":"3.6"
+
+   }
+  },{
+    "id":"32",
+        "name":"Детский электромобиль Mercedes Benz GLC 63 S Coupe одноместный 4WD",
+        "image":"https://pokatyshkin.ru/upload/iblock/4fe/4fee99efa5784f753a60658babfa3d8f.jpg",
+        "price":" 23900",
+        "specifications":{
+          "maxSpeed":"50",
+          "maxLoad":"100",
+          "weight" :"105",
+          "engine" : "Бензиновый",
+          "enginePower":"9",
+          "engineCapacity":"125",
+          "fuelTankCapacity":"3.6"
+     
+        }
+  }
+    ]
+}
