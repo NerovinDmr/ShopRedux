@@ -15,7 +15,7 @@ export const cartActions = {
     setPlusQty: (id) => ({ type: cartActionTypes.SET_PLUS_QTY, payload: id }),
     setMinusQty: (id) => ({ type: cartActionTypes.SET_MINUS_QTY, payload: id }),
     removeFromCart: (id) => ({ type: cartActionTypes.REMOVE_FROM_CART, payload: id }),
-    fetchPosts: () => async (dispatch) => {
+    fetchCart: () => async (dispatch) => {
         dispatch(cartActionTypes.setLoading(true));
 
         try {
